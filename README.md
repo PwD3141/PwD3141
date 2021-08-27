@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PwD3141
 - 👀 I’m interested in math and STEM.
 - 🌱 I’m currently learning calculus, and cs.
-- 💞️ I’m looking to collaborate on any STEM related project.
+- 💞️ I’m looking to collaborate on any math related project.
 - 📫 How to reach me pwd3141@gmail.com
 
 <!---
