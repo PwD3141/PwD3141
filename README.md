@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PwD3141
 - 👀 I’m interested in STEM.
 - 🌱 I’m currently learning calculus, and python.
-- 💞️ I’m looking to collaborate on any math related project.
 - 📫 How to reach me parkerwduthie@gmail.com
 
 <!---
