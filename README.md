@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PwD3141
+- 👋 Hi, I’m theduth
 - 👀 I’m interested in STEM.
 - 🌱 I’m currently learning calculus, and python.
 - 📫 How to reach me parkerwduthie@gmail.com
